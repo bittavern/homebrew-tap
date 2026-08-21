@@ -1,6 +1,6 @@
 # bittavern/homebrew-tap
 
-Homebrew tap for Bittavern apps.
+Homebrew tap for bittavern apps.
 
 ## Install
 
