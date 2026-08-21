@@ -15,7 +15,7 @@ cask "arbitr" do
   # The app updates itself through its own update feed, so Homebrew
   # leaves upgrades to the app.
   auto_updates true
-  depends_on macos: ">= :tahoe"
+  depends_on macos: :tahoe
 
   app "Arbitr.app"
 end
