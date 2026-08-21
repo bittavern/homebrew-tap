@@ -5,7 +5,7 @@ cask "arbitr" do
   url "https://arbitr.bittavern.io/api/download/Arbitr-#{version}.zip"
   name "Arbitr"
   desc "Send commands to AI harnesses on your Mac from mobile clients"
-  homepage "https://bittavern.io"
+  homepage "https://bittavern.io/arbitr"
 
   livecheck do
     url "https://arbitr.bittavern.io/api/latest-release"
