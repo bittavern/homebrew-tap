@@ -1,6 +1,6 @@
 cask "arbitr" do
-  version "0.0.20"
-  sha256 "9ce2ba5283892ca42f066b8b4120816fce4e29d8cff81a0b006eda41209ab77d"
+  version "0.0.21"
+  sha256 "fa957cc0f5f928689794d7c3acf55f68a0336f14c5eb439ea1d3155188ebdbc9"
 
   url "https://arbitr.bittavern.io/api/download/Arbitr-#{version}.zip"
   name "Arbitr"
